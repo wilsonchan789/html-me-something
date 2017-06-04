@@ -1,0 +1,89 @@
+.textimg{
+    font-size: 25px;
+}
+
+#button {
+    margin-left: 20px;
+}
+
+#imgLC, #imgTT {
+    height: 300px;
+    width: 500px;
+}
+
+#imgSC {
+    height: 300px;
+    width: 300px;
+}
+
+#imgSP {
+    height: 450px;
+    width: 350px;
+}
+
+#button, footer {
+    color: white;
+}
+
+#top {
+    font-size: 50px;
+}
+
+a, figcaption, nav li {
+    color: #01253C;
+}
+
+div {
+    background: lightblue;
+    border: solid lightblue 2px;
+    margin: 0px 25px 0px 25px;
+}
+
+figure {
+    text-align: center;
+}
+
+footer {
+    font-size: 15px;
+}
+
+h1, h2, h3 {
+    color: #01253C;
+    text-align: center;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 50px;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+html {
+    background-image: url("jsqj2Er-snow-mountains-wallpaper.jpg");
+}
+
+img {
+    border-radius: 100%;
+}
+
+li {
+    padding: 0px 10px 10px 10px;
+}
+
+nav li {
+    font-size: 25px;
+}
+
+strong {
+    font-size: 25px;
+}
+
+p, ul {
+    margin: 10px 10px 10px 10px;
+}
+
+
